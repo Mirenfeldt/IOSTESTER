@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "251749240945",
+    "firebase_url": "https://semester-projekt-38bc1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "semester-projekt-38bc1",
+    "storage_bucket": "semester-projekt-38bc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251749240945:android:2473d2d0723c5713ec4bd0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tester_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBNDYbrhR_3oJrGko4nlifnXxdzOLTCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251749240945:android:89f0120db0eb5486ec4bd0",
+        "android_client_info": {
+          "package_name": "com.example.raman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBNDYbrhR_3oJrGko4nlifnXxdzOLTCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251749240945:android:1fd020c1c1a47169ec4bd0",
+        "android_client_info": {
+          "package_name": "com.example.virenfeldt_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBNDYbrhR_3oJrGko4nlifnXxdzOLTCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251749240945:android:ff485839e791471bec4bd0",
+        "android_client_info": {
+          "package_name": "com.example.virenfeldt_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBNDYbrhR_3oJrGko4nlifnXxdzOLTCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
